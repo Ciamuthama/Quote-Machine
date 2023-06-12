@@ -95,6 +95,7 @@ button:focus-visible {
 
 #tweet-quote{
   margin-top:-50px;
+  width: 10%;
 }
 
 @media (prefers-color-scheme: light) {
