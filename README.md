@@ -5,8 +5,6 @@ A simple command-line application that spreads inspiration, motivation, and fun!
 ## Features ✨
 
 - Generate random quotes from a diverse collection. 🌈
-- Option to specify a category for the quotes (e.g., motivational, funny, inspirational). 🚀
-- Retrieve quotes from an external API for an expanded selection. 🌐
 - Interactive and user-friendly interface. 🤗
 
 ## Installation ⚙️
