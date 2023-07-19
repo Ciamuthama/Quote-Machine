@@ -36,7 +36,7 @@ Contributions are always welcome! If you have any ideas for improvement or addit
 
 ## Acknowledgements 🙏
 
-- The quotes used in this application are sourced from [TypeFit Api][(https://type.fit/api/quotes)] . 📚🌟
+- The quotes used in this application are sourced from [TypeFit Api](https://type.fit/api/quotes) . 📚🌟
 - Special thanks to the [Freecodecamp Community](https://forum.freecodecamp.org) for  inspiration. 🌟🤗
 
 ---
