@@ -38,8 +38,8 @@ Contributions are always welcome! If you have any ideas for improvement or addit
 
 ## Acknowledgements 🙏
 
-- The quotes used in this application are sourced from [Quotable API](https://example-api.com) . 📚🌟
-- Special thanks to the [Open Source Community](https://opensource.org/community) for their continuous support and inspiration. 🌟🤗
+- The quotes used in this application are sourced from [TypeFit Api][(https://type.fit/api/quotes)] . 📚🌟
+- Special thanks to the [Freecodecamp Community](https://forum.freecodecamp.org) for  inspiration. 🌟🤗
 
 ---
 
