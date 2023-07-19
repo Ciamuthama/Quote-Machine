@@ -1,6 +1,6 @@
-# Random Quote Generator CLI 🎉
+# Random Quote Generator 🎉
 
-A simple command-line application that spreads inspiration, motivation, and fun! This delightful application allows users to fetch random quotes from a predefined collection or an external API. 💬🔮
+A simple application that spreads inspiration, motivation, and fun! This delightful application allows users to fetch random quotes from a predefined collection or an external API. 💬🔮
 
 ## Features ✨
 
@@ -22,10 +22,10 @@ A simple command-line application that spreads inspiration, motivation, and fun!
 To get inspired with a random quote, run the following command: 🌟
 
 ```
-node index.js
+npm run dev
 ```
 
-You will be amazed by a randomly selected quote displayed in the terminal. 🎉💬
+You will be amazed by a randomly selected quote displayed. 🎉💬
 
 
 ## Contributing 🤝
